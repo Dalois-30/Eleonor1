@@ -1,0 +1,22 @@
+					     Tuesday 16 March 2021 14:28:51
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 8715
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  9	 Creed			 5			 3500
+  13	 Sally Hansen			 7			 1000
+  1	 Channel N°1			 5			 2500
+  20	 Carla			 2			 650
+  24	 Gucci Jackie			 7			 21000
+
+
+	Prix total : 185300 FCFA

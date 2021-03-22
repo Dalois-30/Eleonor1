@@ -1,0 +1,20 @@
+					     Wednesday 03 March 2021 13:05:15
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 5125
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  8	 Clarin			 2			 1000
+  14	 Tenoverten			 5			 800
+  13	 Sally Hansen			 2			 1000
+
+
+	Prix total : 8000 FCFA

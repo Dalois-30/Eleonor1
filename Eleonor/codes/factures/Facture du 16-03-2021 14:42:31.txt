@@ -1,0 +1,21 @@
+					     Tuesday 16 March 2021 14:42:28
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 1320
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  3	 Azzaro			 5			 4000
+  17	 Nails			 3			 250
+  10	 Aramis			 5			 5000
+  8	 Clarin			 6			 1000
+
+
+	Prix total : 51750 FCFA

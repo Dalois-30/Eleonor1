@@ -1,0 +1,21 @@
+					     Tuesday 16 March 2021 14:47:06
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 1504
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  14	 Tenoverten			 6			 800
+  21	 Kate Spade			 6			 7000
+  24	 Gucci Jackie			 5			 21000
+  13	 Sally Hansen			 6			 1000
+
+
+	Prix total : 157800 FCFA

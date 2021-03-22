@@ -1,0 +1,22 @@
+					     Tuesday 09 March 2021 08:32:01
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 4348
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  8	 Clarin			 6			 1000
+  19	 Emma			 4			 700
+  24	 Gucci Jackie			 3			 21000
+  12	 OPI			 12			 500
+  1	 Channel N°1			 15			 2500
+
+
+	Prix total : 115300 FCFA

@@ -1,0 +1,21 @@
+					     Tuesday 09 March 2021 08:15:06
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 7966
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  13	 Sally Hansen			 5			 1000
+  14	 Tenoverten			 6			 800
+  7	 Chloé			 12			 12000
+  24	 Gucci Jackie			 3			 21000
+
+
+	Prix total : 216800 FCFA

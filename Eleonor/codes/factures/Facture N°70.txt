@@ -1,0 +1,27 @@
+					     Tuesday 02 March 2021 00:36:35
+
+  				Boutique Numero1
+
+================================================================================
+
+  Numero du client : 00070
+  Nom du client : claude
+  Numero du caissiers : 00089
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+
+  8	 tomate			 10			 800
+  9	 pomme			 15			 900
+  3	 orange			 7			 750
+  9	 jus			 8			 950
+  9	 banane			 3			 1590
+  2	 coco			 9			 2350
+  7	 igname			 41			 1450
+  65	 avocat			 20			 9500
+  1	 ananas			 12			 3500
+  25	 peche			 50			 7525
+
+
+	Prix total : 59350 FCFA

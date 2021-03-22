@@ -1,0 +1,20 @@
+					     Tuesday 16 March 2021 14:43:35
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 3647
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  13	 Sally Hansen			 7			 1000
+  22	 Michael Kors			 6			 12000
+  27	 Prada			 5			 1500
+
+
+	Prix total : 86500 FCFA

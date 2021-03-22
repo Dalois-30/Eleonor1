@@ -1,0 +1,20 @@
+					     Tuesday 16 March 2021 14:39:56
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 4757
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  12	 OPI			 10			 500
+  13	 Sally Hansen			 15			 1000
+  16	 Deborah			 1			 2000
+
+
+	Prix total : 22000 FCFA

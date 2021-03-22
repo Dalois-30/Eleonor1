@@ -1,0 +1,20 @@
+					     Tuesday 16 March 2021 14:36:54
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 1944
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  23	 Chanel Soft			 8			 5000
+  9	 Creed			 1			 3500
+  4	 Balmain			 3			 2000
+
+
+	Prix total : 49500 FCFA

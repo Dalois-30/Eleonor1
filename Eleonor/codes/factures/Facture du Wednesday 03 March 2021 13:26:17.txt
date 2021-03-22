@@ -1,0 +1,20 @@
+					     Wednesday 03 March 2021 13:26:04
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 4650
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  5	 Boss			 5			 6000
+  15	 Butter London			 6			 1500
+  20	 Carla			 8			 650
+
+
+	Prix total : 44200 FCFA

@@ -1,0 +1,20 @@
+					     Tuesday 16 March 2021 14:38:07
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 8524
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  19	 Emma			 4			 700
+  30	 Christian Dior			 3			 15000
+  25	 Hermes			 6			 18000
+
+
+	Prix total : 155800 FCFA

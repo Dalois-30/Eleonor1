@@ -1,0 +1,20 @@
+					     Monday 01 March 2021 02:28:13
+
+				Boutique Numero1
+
+================================================================================
+
+Numero du client : 00054
+Nom du client : claude
+Numero du caissiers : 00089
+
+================================================================================
+
+Ref	Produits			Quantité			Prix Unitaire 
+
+8	tomate			10			800
+9	pomme			15			900
+3	orange			7			750
+
+
+	Prix total : 59350 FCFA

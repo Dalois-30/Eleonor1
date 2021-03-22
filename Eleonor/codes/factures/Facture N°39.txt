@@ -1,0 +1,20 @@
+					     Wednesday 03 March 2021 12:48:39
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 7527
+  Numero du client : 00039
+  Nom du client : kevin
+  Numero du caissiers : 00029
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  10	 Aramis			 5			 5000
+  14	 Tenoverten			 5			 800
+  18	 INLP			 5			 1200
+
+
+	Prix total : 35000 FCFA

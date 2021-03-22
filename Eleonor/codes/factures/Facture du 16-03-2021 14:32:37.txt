@@ -1,0 +1,22 @@
+					     Tuesday 16 March 2021 14:32:33
+
+  				Boutique Numero532
+
+================================================================================
+
+  Facture N° : 4098
+  Numero du client : 00020
+  Nom du client : kevin
+  Numero du caissiers : 0001
+
+================================================================================
+  Ref	  Produits		  Quantité		  Prix Unitaire 
+================================================================================
+  14	 Tenoverten			 4			 800
+  20	 Carla			 2			 650
+  24	 Gucci Jackie			 3			 21000
+  24	 Gucci Jackie			 3			 21000
+  24	 Gucci Jackie			 2			 21000
+
+
+	Prix total : 172500 FCFA
