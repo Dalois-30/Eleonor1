@@ -59,7 +59,7 @@ for row in rows:
     print(lst)
     x, y = lst.split(',')
 
-    x=x[1:len(x)]
+    x=x[len(x)-8:len(x)]
     y=y[0:len(y)-1]
     y=int(y)
     

@@ -39,15 +39,14 @@ if echec:
     sys.exit()
 
 class Menu(Tk):
-    def __init__(self, root):
-        self.root = root
-        self.fen=Toplevel(self.root)
+    def __init__(self):
+        self.fen = Tk()
         self.fen.title("Gestion des ventes")
         self.fen.geometry("1010x642+140+20")        
         menubar = Menu(self.fen)
         
         ventemenu = Menu(menubar, tearoff=0)
-        ventemenu.add_command(label="Nouvelle", command=nouvelleVente)
+        ventemenu.add_command(label="Nouvelle")
         ventemenu.add_command(label="Statistiques")
         ventemenu.add_command(label="Exit", command=self.fen.destroy)
         ventemenu.add_separator()
@@ -81,16 +80,11 @@ class Menu(Tk):
         
         self.fen.config(menu=menubar)
         
-    def nouvelleVente(self):
-        pass
-    
-def testC2():
-    obj = Menu(fen)
+
+obj = Menu()
     #obj.remplissage(1,54,"claude",89,produit,numero,qt,prixl,59350)
             
-fen = Tk() 
-bouton_new = Button(fen, width=10, height=1, text="Connexion", command=testC2)
-bouton_new.pack() 
+ 
 
 
 
@@ -99,4 +93,4 @@ bouton_new.pack()
 
      
 
-fen.mainloop()
+obj.mainloop()

@@ -33,11 +33,10 @@ else:
                 
 if echec:
     sys.exit()
-        
 
 con = psycopg2.connect("host=%s dbname=%s user=%s password=%s" % (HOST, DATABASE, USER, PASSWORD))
 cursor = con.cursor()
-cursor.execute("select (sum(contenir.quantite) * sum(contenir.prix_unitaire)) as prix, factures.date from contenir inner join factures on (contenir.num_facture = factures.num_facture) where contenir.num_produit=13 group by date")
+cursor.execute("SELECT sum(prix_total),date FROM factures group by(date)")
 rows = cursor.fetchall()
 print(rows)
 con.close()
@@ -55,16 +54,18 @@ for elt in rows:
     #print(str(elt[1]))
     
     #print(jour)
+    indice=indice[len(indice)-2:len(indice)]
     
+    print(indice)
     jour+=[indice]
-    
+
 print(jour)    
 #print(jour)
     
 
     
 taillex=len(rows)
-plt.figure(figsize=(10,4))
+plt.figure(figsize=(13,4))
 
 
 
@@ -72,4 +73,4 @@ plt.bar(jour ,height=recette,facecolor="green")
 
 plt.show()#pour fficher dans autre chose que jupiter
 
-plt.savefig("images/grapheproduit13.png")
+plt.savefig('graphe.png', bbox_inches='tight')
